@@ -1,1 +1,1 @@
-# quick-start-to--develop-Angular-applications-using-Typescript
+# quick-start-to-develop-angular-applications-using-typescript
